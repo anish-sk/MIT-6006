@@ -1,0 +1,27 @@
+[submodule "MIT-6006-PS9"]
+	path = MIT-6006-PS9
+	url = git@github.com:anish-sk/MIT-6006-PS9.git
+[submodule "MIT-6006-PS8"]
+	path = MIT-6006-PS8
+	url = git@github.com:anish-sk/MIT-6006-PS8.git
+[submodule "MIT-6006-PS7"]
+	path = MIT-6006-PS7
+	url = git@github.com:anish-sk/MIT-6006-PS7.git
+[submodule "MIT-6006-PS6"]
+	path = MIT-6006-PS6
+	url = git@github.com:anish-sk/MIT-6006-PS6.git
+[submodule "MIT-6006-PS5"]
+	path = MIT-6006-PS5
+	url = git@github.com:anish-sk/MIT-6006-PS5.git
+[submodule "MIT-6006-PS4"]
+	path = MIT-6006-PS4
+	url = git@github.com:anish-sk/MIT-6006-PS4.git
+[submodule "MIT-6006-PS3"]
+	path = MIT-6006-PS3
+	url = git@github.com:anish-sk/MIT-6006-PS3.git
+[submodule "MIT-6006-PS2"]
+	path = MIT-6006-PS2
+	url = git@github.com:anish-sk/MIT-6006-PS2.git
+[submodule "MIT-6006-PS1"]
+	path = MIT-6006-PS1
+	url = git@github.com:anish-sk/MIT-6006-PS1.git
